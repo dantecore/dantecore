@@ -12,12 +12,9 @@
    Drawn to the kind of software people keep using without thinking twice.                                                                                                                                                                           
    ## Current focus                                                                                                                                                            
                                                                                                                                                                                
-   - Small products with real utility                                                                                                                                          
+   - Small things with real utility                                                                                                                                          
    - Backend and systems fundamentals                                                                                                                                          
-   - Developer tooling                                                                                                                                                         
-   - AI-assisted workflows                                                                                                                                                     
-   - Turning ideas into usable things                                                                                                                                                                                                                                                                                                       
-                                                                                                                    
+   - Developer tooling                                                                                                                                                                                                                                                                                
         </td>                                                                                                                                                                   
       </tr>
 </table>
